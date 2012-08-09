@@ -20,7 +20,7 @@
         "socket.io-client": "0.9.9"
       , "policyfile": "0.0.4"
       , "redis": "0.7.2"
-      , "websocket": "1.0.6"
+      , "websocket": "git://github.com/GICodeWarrior/WebSocket-Node.git"
     }
   , "devDependencies": {
         "expresso": "0.9.2"
